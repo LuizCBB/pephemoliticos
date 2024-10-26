@@ -4,4 +4,4 @@ screed
 scipy
 pandas
 mmh3
-sklearn
+scikit-learn
